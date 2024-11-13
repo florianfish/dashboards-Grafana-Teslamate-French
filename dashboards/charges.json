@@ -143,7 +143,7 @@
             "properties": [
               {
                 "id": "displayName",
-                "value": "Added"
+                "value": "Ajouté"
               },
               {
                 "id": "unit",
@@ -631,7 +631,7 @@
             "properties": [
               {
                 "id": "displayName",
-                "value": "Used"
+                "value": "Utilisé"
               },
               {
                 "id": "unit",
