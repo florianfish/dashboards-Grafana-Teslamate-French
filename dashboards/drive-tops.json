@@ -287,7 +287,7 @@
           ]
         }
       ],
-      "title": "Distance maximale parcourue entre les recharges",
+      "title": "Max distance traveled between recharges",
       "type": "table"
     },
     {
@@ -548,7 +548,7 @@
           ]
         }
       ],
-      "title": "Distance médiane d'un trajet",
+      "title": "Median distance of a drive",
       "type": "stat"
     },
     {
